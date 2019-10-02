@@ -60,5 +60,8 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10"
+  },
+  "peerDependencies": {
+    "@react-native-community/viewpager": "^1.1.7"
   }
 }
